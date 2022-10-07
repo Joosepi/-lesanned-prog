@@ -1,8 +1,10 @@
 user_name = ('Kroonid või eurod' + '?')
 
-print('Hello, ümarda kroonid eurodesse')
+print('Hello,' + user_name 'ümarda kroonid eurodesse')
 
-x = round(100, 15.65)
-print(x)
+a = int(input('a: '))
+b = int(input('b: '))
+
+round('15.64', '1.00')
 
 print(a / b)
